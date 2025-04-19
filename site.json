@@ -10,7 +10,7 @@
   },
   "newsletter": {
       "showTwitterBanner": false,
-      "currentCount": "2,000",
+      "currentCount": "0",
       "revueUsername": "yourusername"       
    },
   "seo": {
