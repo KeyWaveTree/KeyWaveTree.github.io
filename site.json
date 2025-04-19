@@ -1,0 +1,27 @@
+{
+  "title": "Cyan",
+  "subtitle": "Blog of a Software Engineer and Computer Science",
+  "owner": {
+    "name": "KeyWaveTree",
+    "email": "keywavetree.work@icloud.com"
+  },
+  "social": {
+    "github": "KeyWaveTree",
+  },
+  "newsletter": {
+      "showTwitterBanner": false,
+      "currentCount": "2,000",
+      "revueUsername": ""       
+   },
+  "seo": {
+    "title": "Cyan",
+    "description": "Blog of a Software Engineer and Computer Science",
+    "author": "KeyWaveTree",
+    "keywords": [
+      "blog",
+      "developer blog",
+      "engineering blog"
+    ]
+  },
+  "cname": "https://keywavetree.github.io"
+}
