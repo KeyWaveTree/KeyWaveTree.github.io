@@ -8,11 +8,6 @@
   "social": {
     "github": "KeyWaveTree"
   },
-  "newsletter": {
-      "showTwitterBanner": true,
-      "currentCount": "0",
-      "revueUsername": "yourusername"       
-   },
   "seo": {
     "title": "Cyan",
     "description": "Blog of a Software Engineer and Computer Science",
