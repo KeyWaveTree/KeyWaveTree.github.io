@@ -9,7 +9,7 @@
     "github": "KeyWaveTree"
   },
   "newsletter": {
-      "showTwitterBanner": false,
+      "showTwitterBanner": true,
       "currentCount": "0",
       "revueUsername": "yourusername"       
    },
